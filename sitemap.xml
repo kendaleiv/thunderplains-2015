@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/tickets.html</loc>
+    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/jakub-jedryszek/entry.html</loc>
+    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/schedule.html</loc>
+    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/index.html</loc>
+    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/contact.html</loc>
+    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/jonathan-david-dalton/entry.html</loc>
     <lastmod>2015-07-24T15:23:45.000Z</lastmod>
   </url>
@@ -12,32 +37,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/jonathan-yarbor/entry.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/sponsorship.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/entry.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/description.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/bio.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/matthew-podwysocki/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/jonathan-yarbor/description.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
@@ -162,12 +162,12 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/jonathan-yarbor/entry.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/jonathan-yarbor/description.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
@@ -177,7 +177,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/tickets.html</loc>
+    <loc>http://thunderplainsconf.com/sponsorship.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
@@ -207,7 +207,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/jakub-jedryszek/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/entry.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
@@ -302,7 +302,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/schedule.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/description.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
@@ -312,7 +312,12 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/index.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/bio.html</loc>
+    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/matthew-podwysocki/entry.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
