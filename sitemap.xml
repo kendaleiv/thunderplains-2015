@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/schedule.html</loc>
+    <lastmod>2015-07-26T22:16:22.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/index.html</loc>
+    <lastmod>2015-07-26T22:15:36.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/scholarship.html</loc>
+    <lastmod>2015-07-26T22:15:11.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/tickets.html</loc>
     <lastmod>2015-07-26T22:11:46.000Z</lastmod>
   </url>
   
   <url>
     <loc>http://thunderplainsconf.com/speakers/jakub-jedryszek/entry.html</loc>
-    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/schedule.html</loc>
-    <lastmod>2015-07-26T22:11:46.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/index.html</loc>
     <lastmod>2015-07-26T22:11:46.000Z</lastmod>
   </url>
   
@@ -38,11 +43,6 @@
   
   <url>
     <loc>http://thunderplainsconf.com/speakers/jonathan-yarbor/description.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/matthew-podwysocki/description.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
@@ -307,17 +307,22 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/location.html</loc>
-    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/bio.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
   <url>
+    <loc>http://thunderplainsconf.com/location.html</loc>
+    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/matthew-podwysocki/entry.html</loc>
+    <lastmod>2015-07-23T21:48:52.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/matthew-podwysocki/description.html</loc>
     <lastmod>2015-07-23T21:48:52.000Z</lastmod>
   </url>
   
