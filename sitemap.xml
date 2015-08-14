@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/sponsorship.html</loc>
+    <lastmod>2015-08-14T07:40:01.013Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/blaine-bublitz/bio.html</loc>
+    <lastmod>2015-08-14T07:40:01.011Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/index.html</loc>
+    <lastmod>2015-08-14T07:40:01.009Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/example/entry.html</loc>
     <lastmod>2015-08-10T19:08:50.422Z</lastmod>
   </url>
@@ -17,27 +32,17 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/blaine-bublitz/bio.html</loc>
-    <lastmod>2015-08-10T19:08:50.406Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/schedule.html</loc>
     <lastmod>2015-08-10T19:08:50.391Z</lastmod>
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/index.html</loc>
-    <lastmod>2015-08-10T19:08:50.389Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/tickets.html</loc>
+    <loc>http://thunderplainsconf.com/scholarship.html</loc>
     <lastmod>2015-07-26T23:13:22.619Z</lastmod>
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/scholarship.html</loc>
+    <loc>http://thunderplainsconf.com/tickets.html</loc>
     <lastmod>2015-07-26T23:13:22.619Z</lastmod>
   </url>
   
@@ -59,11 +64,6 @@
   <url>
     <loc>http://thunderplainsconf.com/videos.html</loc>
     <lastmod>2015-07-23T21:50:17.870Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/sponsorship.html</loc>
-    <lastmod>2015-07-23T21:48:52.451Z</lastmod>
   </url>
   
   <url>
